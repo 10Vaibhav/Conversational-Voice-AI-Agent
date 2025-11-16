@@ -34,7 +34,7 @@ The conversation flow follows these steps:
 
 ## Tech Stack
 
-- **Speech Recognition**: Google Speech Recognition API
+- **Speech Recognition**: Python SpeechRecognition Package
 - **Text-to-Speech**: OpenAI TTS (gpt-4o-mini-tts)
 - **AI Model**: OpenAI GPT-4.1-mini
 - **Memory Framework**: mem0ai
